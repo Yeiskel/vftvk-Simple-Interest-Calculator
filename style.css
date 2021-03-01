@@ -10,11 +10,34 @@ h1{
 }
 .maindiv{
     background-color: white;
-    color:blue;
+    color:black;
     width: 400px;
     padding: 20px;
     border-radius: 25px;
-    margin: auto;
-    text-align: center
+    margin: auto
+         
 }
-
+.items{
+    margin-left: 15%;
+    margin-top: 3%;
+}
+#principal {
+    margin-top: 3%;
+    margin-left: 10%;
+}
+#rate{
+    margin-top: 3%;
+    margin-left: 4%;
+}
+#years{
+    margin-top: 3%;
+    margin-left: 4%;
+}
+#result{
+    display:block
+}
+footer{
+    background-color:white;
+    text-align: left;
+    color:black;
+}
